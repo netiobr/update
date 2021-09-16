@@ -1,0 +1,7 @@
+<AppUpdater>
+  <update>
+    <latestVersion>3.0.0</latestVersion>
+    <latestVersionCode>410</latestVersionCode>
+    <url>https://github.com/netiobr/nash/raw/main/update.apk</url>
+  </update>
+</AppUpdater>
